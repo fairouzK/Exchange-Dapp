@@ -2,7 +2,7 @@
 
 A simple exchange of tokens using React and Solidity.
 
-<img src= "dapp_image.png" width = "400" />
+<img src= "dapp_image.png" width = "500" />
 
 Set-up
 1.	install vite for fast initialization of dapp (instead of create-react-app)
