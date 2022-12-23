@@ -6,7 +6,7 @@ Send and receive Goerli Eth tokens using Vite, React, and Solidity.
 <!-- <img src= "dapp_image_2.png" width = "500" />
 <img src= "dapp_image_3.png" width = "500" />
 <img src= "dapp_image_4.png" width = "500" /> -->
-Dapp hosted in Netlify and can be found here <a href="exchangedapp.netlify.app/" target="_blank"> Exchange Dapp </a>
+Dapp hosted in Netlify and can be found here <a href="https://exchangedapp.netlify.app/" target="_blank"> Exchange Dapp </a>
 
 Set-up
 1.	install vite for dapp initialization 
