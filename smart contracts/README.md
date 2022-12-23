@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+#### smart contracts folder
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+hardhat.config.js contains the DAPP_API_KEY and YOUR_WALLET_PRIVATE_KEY, which are to be replaced.
+contracts folder contains the smart contract Transactions.sol,
+scripts contains the deploy.js file.
