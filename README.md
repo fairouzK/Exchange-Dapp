@@ -1,6 +1,7 @@
 # Exchange Dapp
 
-Send and receive Goerli Eth tokens using Vite, React, and Solidity.
+A decentralized web application to send and receive Goerli Eth tokens.
+Developed using Vite, React, and Solidity.
 
 <img src= "dapp_image.png" width = "500" />
 <!-- <img src= "dapp_image_2.png" width = "500" />
